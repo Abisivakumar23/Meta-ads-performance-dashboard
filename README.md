@@ -150,12 +150,12 @@ These insights support strategic reallocation of advertising budgets.
 3. Ensure your CSV files are placed in the correct folder and properly linked.  
 4. Refresh the model if required.  
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Meta Ads Dashboard](dashboard.png)
 
 ---
 
-## 🗂️ Data Model (ER Diagram)
+##  Data Model (ER Diagram)
 
 ![ER Diagram](er-diagram.png)
